@@ -9,9 +9,7 @@ This Arduino project controls **6 servo motors** connected to digital pins **2 t
 
 ---
 
-## 🖼 Preview
-
-![6-Servo-Sweep](6-Servo Sweep.png)
+![6-Servo-Sweep](6-Servo-Sweep.png)
 
 ---
 
