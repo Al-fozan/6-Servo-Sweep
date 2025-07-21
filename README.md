@@ -11,9 +11,7 @@ This Arduino project controls **6 servo motors** connected to digital pins **2 t
 
 ## 🖼 Preview
 
-![servo-demo](images/servo-demo.png)
-
-> Replace `images/servo-demo.png` with the actual image path in your repository.
+![6-Servo-Sweep](6-Servo Sweep.png)
 
 ---
 
@@ -32,12 +30,3 @@ This Arduino project controls **6 servo motors** connected to digital pins **2 t
 4. Done!
 
 ---
-
-## 💡 Notes
-- Avoid using pins 0 and 1, as they are reserved for Serial communication.
-- Power your servos externally to prevent brownouts or resets.
-
----
-
-## 📄 License
-This project is open-source under the MIT License.
